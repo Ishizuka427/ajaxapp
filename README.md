@@ -6,6 +6,8 @@
 $ npx --yes @js-primer/local-server
 ```
 
+http://localhost:3000
+
 https://jsprimer.net/use-case/ajaxapp/
 
 - [x] エントリーポイントの作成
